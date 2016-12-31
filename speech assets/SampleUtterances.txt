@@ -1,0 +1,76 @@
+GetTranslationIntent get translation for {What is going on|string}
+GetTranslationIntent get translation for {Yesterday, I went to grocery store and bought some apples.|string}
+GetTranslationIntent get translation for {That's the way the cookie crumbles.|string}
+GetTranslationIntent get translation for {Yes.|string}
+GetTranslationIntent get translation for {Don't look back.|string}
+GetTranslationIntent get translation for {Good luck.|string}
+GetTranslationIntent get translation for {The quick brown fox jumps over the lazy dog, and I danced with wolves.|string}
+GetTranslationIntent get translation for {You must use the force.|string}
+GetTranslationIntent get translation for {It's a trap.|string}
+
+GetTranslationIntent {What is going on|string}
+GetTranslationIntent {Yesterday, I went to grocery store and bought some apples.|string}
+GetTranslationIntent {That's the way the cookie crumbles.|string}
+GetTranslationIntent {Yes.|string}
+GetTranslationIntent {Don't look back.|string}
+GetTranslationIntent {Good luck.|string}
+GetTranslationIntent {The quick brown fox jumps over the lazy dog, and I danced with wolves.|string}
+GetTranslationIntent {You must use the force.|string}
+GetTranslationIntent {It's a trap.|string}
+
+GetTranslationIntent what would the translation for {What is going on|string} be
+GetTranslationIntent what would the translation for {Yesterday, I went to grocery store and bought some apples.|string} be
+GetTranslationIntent what would the translation for {That's the way the cookie crumbles.|string} be
+GetTranslationIntent what would the translation for {Yes.|string} be
+GetTranslationIntent what would the translation for {Don't look back.|string} be
+GetTranslationIntent what would the translation for {Good luck.|string} be
+GetTranslationIntent what would the translation for {The quick brown fox jumps over the lazy dog, and I danced with wolves.|string} be
+GetTranslationIntent what would the translation for {You must use the force.|string} be
+GetTranslationIntent what would the translation for {It's a trap.|string} be
+
+GetTranslationIntent how would Yoda say {What is going on|string}
+GetTranslationIntent how would Yoda say {Yesterday, I went to grocery store and bought some apples.|string}
+GetTranslationIntent how would Yoda say {That's the way the cookie crumbles.|string}
+GetTranslationIntent how would Yoda say {Yes.|string}
+GetTranslationIntent how would Yoda say {Don't look back.|string}
+GetTranslationIntent how would Yoda say {Good luck.|string}
+GetTranslationIntent how would Yoda say {The quick brown fox jumps over the lazy dog, and I danced with wolves.|string}
+GetTranslationIntent how would Yoda say {You must use the force.|string}
+GetTranslationIntent how would Yoda say {It's a trap.|string}
+
+
+GetTranslationIntent translate {What is going on|string}
+GetTranslationIntent translate {Yesterday, I went to grocery store and bought some apples.|string}
+GetTranslationIntent translate {That's the way the cookie crumbles.|string}
+GetTranslationIntent translate {Yes.|string}
+GetTranslationIntent translate {Don't look back.|string}
+GetTranslationIntent translate {Good luck.|string}
+GetTranslationIntent translate {The quick brown fox jumps over the lazy dog, and I danced with wolves.|string}
+GetTranslationIntent translate {You must use the force.|string}
+GetTranslationIntent translate {It's a trap.|string}
+
+GetTranslationIntent Yoda say {What is going on|string}
+GetTranslationIntent Yoda say {Yesterday, I went to grocery store and bought some apples.|string}
+GetTranslationIntent Yoda say {That's the way the cookie crumbles.|string}
+GetTranslationIntent Yoda say {Yes.|string}
+GetTranslationIntent Yoda say {Don't look back.|string}
+GetTranslationIntent Yoda say {Good luck.|string}
+GetTranslationIntent Yoda say {The quick brown fox jumps over the lazy dog, and I danced with wolves.|string}
+GetTranslationIntent Yoda say {You must use the force.|string}
+GetTranslationIntent Yoda say {It's a trap.|string}
+
+GetTranslationIntent get me the translation for {What is going on|string}
+GetTranslationIntent get me the translation for {Yesterday, I went to grocery store and bought some apples.|string}
+GetTranslationIntent get me the translation for {That's the way the cookie crumbles.|string}
+GetTranslationIntent get me the translation for {Yes.|string}
+GetTranslationIntent get me the translation for {Don't look back.|string}
+GetTranslationIntent get me the translation for {Good luck.|string}
+GetTranslationIntent get me the translation for {The quick brown fox jumps over the lazy dog, and I danced with wolves.|string}
+GetTranslationIntent get me the translation for {You must use the force.|string}
+GetTranslationIntent get me the translation for {It's a trap.|string}
+
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
